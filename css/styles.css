@@ -1,0 +1,59 @@
+img
+{
+  border-radius:100%;
+  height:200px;
+}
+
+body
+{
+  background-color:#FF865E;
+}
+
+.white
+{
+  color:#FEF9EF;
+}
+.black
+{
+  color:black;
+}
+.thick
+{
+  font-weight:bold;
+}
+
+
+#contact
+{
+  border-bottom-style:solid;
+  width:15%;
+}
+hr
+{
+  color:white;
+
+  border-width:2px;
+  border-style:solid;
+
+}
+.thick:hover, .black:hover
+{
+  color:white;
+}
+.white:hover
+{
+  color:black;
+}
+
+.copyright
+{
+  font-weight:bold;
+
+}
+
+img:hover
+{
+  border-radius:0;
+  height:300px;
+
+}
